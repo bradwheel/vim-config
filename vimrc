@@ -38,6 +38,7 @@ else
   Plugin 'candycode.vim'
   Plugin 'Colour-Sampler-Pack'
   Plugin 'flazz/vim-colorschemes'
+  Plugin 'mhartington/oceanic-next'
 
   "
   " Ruby / Rails
@@ -122,7 +123,6 @@ else
   Plugin 'quentindecock/vim-cucumber-align-pipes'
   Plugin 'juvenn/mustache.vim'
   Plugin 'fatih/vim-go'
-  Plugin 'rosstimson/scala-vim-support'
   Plugin 'guns/vim-clojure-static'
   Plugin 'chrisbra/csv.vim'
   Plugin 'elzr/vim-json'
@@ -134,13 +134,14 @@ else
   Plugin 'digitaltoad/vim-pug'
   Plugin 'elixir-lang/vim-elixir'
   Plugin 'luan/vim-concourse'
+  Plugin 'peitalin/vim-jsx-typescript'
+  Plugin 'fsharp/vim-fsharp'
 
   "
   " Development Tool Integration
   "
   Plugin 'tpope/vim-fugitive'
   Plugin 'airblade/vim-gitgutter'
-  Plugin 'pivotal/tmux-config'
   Plugin 'tpope/vim-dispatch'
   Plugin 'carlobaldassi/ConqueTerm'
   Plugin 'sjl/vitality.vim'
